@@ -1,4 +1,22 @@
-body{
+body {
     align-content: center;
-    background-color: rgba(247, 208, 225, 0);
+    background-color: rgba(255, 242, 251, 0.945);
+    color: white;
+}
+
+nav{
+    background-color: rgb(126, 79, 106);
+    position:relative;
+    top: -1rem;
+    
+}
+
+.velkommen {
+    background-color: rgb(167, 97, 138);
+    width: fit-content;
+}
+
+.tekst {
+    background-color: rgb(219, 175, 201);
+    width: fit-content;
 }
