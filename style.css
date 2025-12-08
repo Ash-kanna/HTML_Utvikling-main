@@ -22,7 +22,7 @@ a {
     font-size: x-large;
 }
 
-.velkommen {
+.overskrift {
     background-color: #8f5578;
     justify-self: center;
     padding: 0.5rem;
@@ -53,13 +53,13 @@ a {
     padding: 10px;
     border-radius: 8px;
     justify-self: center;
-    background-color: #71425e;
     align-items: center;
 
 }
 .bilde img{
     width: 100%;
     height: auto;
+    border-radius: 8px;
 }
 footer {
     background-color: #000;
