@@ -1,6 +1,6 @@
 body {
     align-content: center;
-    background-color: #3e072e;
+    background-color: #3b1230;
     color: white;
     display: block;
 }
@@ -48,6 +48,7 @@ a {
 
 .bilde {
     display: flex;
+    width: 80%;
     max-width: 39rem;
     padding: 10px;
     border-radius: 8px;
