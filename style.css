@@ -50,8 +50,6 @@ a {
     display: flex;
     width: 80%;
     max-width: 39rem;
-    padding: 10px;
-    border-radius: 8px;
     justify-self: center;
     align-items: center;
 
