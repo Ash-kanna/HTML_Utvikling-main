@@ -6,3 +6,5 @@ Nettsiden tar utgangspungt i å skrive en blogg. Nettsiden har bilder og tekst. 
 # Språk brukt
 * HTML
 * CSS
+* JavaScript
+* PowerShell
